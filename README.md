@@ -1,4 +1,4 @@
-# Paddy-Disease-Classification
+# Paddy Disease Classification (Deep Learning)
 This deep learning project aims to classify paddy diseases using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The project includes:
 
 1. Train-Test Split
